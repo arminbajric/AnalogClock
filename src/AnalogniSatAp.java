@@ -137,9 +137,5 @@ public Point getCoo4(int ss)
     tacka.setLocation(x, y);
 	return tacka;
 	}
-public void drawHours()
-{
-Graphics g;
-//g.drawLine(x1, y1, x2, y2);
-}
+
 }
